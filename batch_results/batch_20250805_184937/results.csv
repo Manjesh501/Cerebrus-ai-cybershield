@@ -1,0 +1,4 @@
+File,Hash,Is Malware,Confidence,Malware Type,Risk Score,Analysis Method,Processing Time
+7fc28...,False,0.00,Clean,0,"ML,Dynamic",18.93s
+Hello.exe,94e8c97dd2313778...,False,0.00,Clean,0,ML,45.16s
+node.exe,0adb9c625c0751cc...,False,0.00,Clean,0,ML,15.86s

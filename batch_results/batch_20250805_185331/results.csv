@@ -1,0 +1,4 @@
+File,Hash,Is Malware,Confidence,Malware Type,Risk Score,Analysis Method,Processing Time
+e1be4f020c7fc28...,False,0.00,Clean,0,"ML,Dynamic,VirusTotal",17.24s
+Hello.exe,94e8c97dd2313778...,False,0.00,Clean,0,"ML,VirusTotal",46.81s
+node.exe,0adb9c625c0751cc...,False,0.00,Clean,0,"ML,Dynamic,VirusTotal",18.25s

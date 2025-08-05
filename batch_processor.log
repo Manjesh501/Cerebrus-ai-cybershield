@@ -1,0 +1,87 @@
+2025-08-05 18:49:10,150 - BatchProcessor - INFO - Loading ML model from: ML_model/malwareclassifier-V2.pkl
+2025-08-05 18:49:21,936 - BatchProcessor - INFO - Loaded ML model analyzer from ML_model/malwareclassifier-V2.pkl
+2025-08-05 18:49:22,012 - BatchProcessor - ERROR - Error setting up document analyzer: failed to find libmagic.  Check your installation
+2025-08-05 18:49:22,070 - BatchProcessor - ERROR - Error setting up malware type detector: failed to find libmagic.  Check your installation
+2025-08-05 18:49:22,105 - DynamicAnalysis - INFO - Created temporary directory: C:\Users\TIWAR\AppData\Local\Temp\dynamic_analysis_u12j88tv
+2025-08-05 18:49:22,105 - BatchProcessor - INFO - Loaded dynamic analyzer
+2025-08-05 18:49:22,359 - BatchProcessor - WARNING - No VirusTotal API key provided. VirusTotal scanning will be skipped.
+2025-08-05 18:49:37,479 - BatchProcessor - INFO - Processing file: attention.pdf
+2025-08-05 18:49:37,518 - BatchProcessor - INFO - Processing file: circularlist.exe
+2025-08-05 18:49:46,696 - DynamicAnalysis - INFO - Executing file: C:\Users\TIWAR\Desktop\final\Cerberus-ai-cybershield\test_samples\circularlist.exe
+2025-08-05 18:49:56,451 - BatchProcessor - INFO - Processing file: Hello.exe
+2025-08-05 18:50:03,166 - DynamicAnalysis - INFO - Executing file: C:\Users\TIWAR\Desktop\final\Cerberus-ai-cybershield\test_samples\Hello.exe
+2025-08-05 18:50:33,215 - DynamicAnalysis - WARNING - Process timed out after 30 seconds, terminating
+2025-08-05 18:50:41,611 - BatchProcessor - ERROR - Error in dynamic analysis of Hello.exe: can only join an iterable
+2025-08-05 18:50:41,614 - BatchProcessor - INFO - Processing file: node.exe
+2025-08-05 18:50:48,425 - DynamicAnalysis - INFO - Executing file: C:\Users\TIWAR\Desktop\final\Cerberus-ai-cybershield\test_samples\node.exe
+2025-08-05 18:50:57,476 - BatchProcessor - ERROR - Error in dynamic analysis of node.exe: can only join an iterable
+2025-08-05 18:51:15,914 - BatchProcessor - INFO - Loading ML model from: ML_model/malwareclassifier-V2.pkl
+2025-08-05 18:51:17,997 - BatchProcessor - INFO - Loaded ML model analyzer from ML_model/malwareclassifier-V2.pkl
+2025-08-05 18:51:18,044 - BatchProcessor - ERROR - Error setting up document analyzer: failed to find libmagic.  Check your installation
+2025-08-05 18:51:18,083 - BatchProcessor - ERROR - Error setting up malware type detector: failed to find libmagic.  Check your installation
+2025-08-05 18:51:18,089 - DynamicAnalysis - INFO - Created temporary directory: C:\Users\TIWAR\AppData\Local\Temp\dynamic_analysis_uv28onm3
+2025-08-05 18:51:18,089 - BatchProcessor - INFO - Loaded dynamic analyzer
+2025-08-05 18:51:18,277 - BatchProcessor - WARNING - No VirusTotal API key provided. VirusTotal scanning will be skipped.
+2025-08-05 18:51:18,280 - BatchProcessor - INFO - Processing file: attention.pdf
+2025-08-05 18:51:18,285 - BatchProcessor - INFO - Processing file: circularlist.exe
+2025-08-05 18:51:26,287 - DynamicAnalysis - INFO - Executing file: C:\Users\TIWAR\Desktop\final\Cerberus-ai-cybershield\test_samples\circularlist.exe
+2025-08-05 18:51:35,121 - BatchProcessor - INFO - Processing file: Hello.exe
+2025-08-05 18:51:42,062 - DynamicAnalysis - INFO - Executing file: C:\Users\TIWAR\Desktop\final\Cerberus-ai-cybershield\test_samples\Hello.exe
+2025-08-05 18:52:12,086 - DynamicAnalysis - WARNING - Process timed out after 30 seconds, terminating
+2025-08-05 18:52:20,899 - BatchProcessor - INFO - Processing file: node.exe
+2025-08-05 18:52:27,603 - DynamicAnalysis - INFO - Executing file: C:\Users\TIWAR\Desktop\final\Cerberus-ai-cybershield\test_samples\node.exe
+2025-08-05 18:53:27,533 - BatchProcessor - INFO - Loading ML model from: ML_model/malwareclassifier-V2.pkl
+2025-08-05 18:53:29,601 - BatchProcessor - INFO - Loaded ML model analyzer from ML_model/malwareclassifier-V2.pkl
+2025-08-05 18:53:29,637 - BatchProcessor - ERROR - Error setting up document analyzer: failed to find libmagic.  Check your installation
+2025-08-05 18:53:29,670 - BatchProcessor - ERROR - Error setting up malware type detector: failed to find libmagic.  Check your installation
+2025-08-05 18:53:29,674 - DynamicAnalysis - INFO - Created temporary directory: C:\Users\TIWAR\AppData\Local\Temp\dynamic_analysis__p20kazt
+2025-08-05 18:53:29,675 - BatchProcessor - INFO - Loaded dynamic analyzer
+2025-08-05 18:53:29,847 - BatchProcessor - INFO - Loaded VirusTotal scanner with provided API key
+2025-08-05 18:53:31,794 - BatchProcessor - INFO - Processing file: attention.pdf
+2025-08-05 18:53:33,077 - BatchProcessor - INFO - Processing file: circularlist.exe
+2025-08-05 18:53:40,992 - DynamicAnalysis - INFO - Executing file: C:\Users\TIWAR\Desktop\final\Cerberus-ai-cybershield\test_samples\circularlist.exe
+2025-08-05 18:53:50,322 - BatchProcessor - INFO - Processing file: Hello.exe
+2025-08-05 18:53:57,096 - DynamicAnalysis - INFO - Executing file: C:\Users\TIWAR\Desktop\final\Cerberus-ai-cybershield\test_samples\Hello.exe
+2025-08-05 18:54:27,123 - DynamicAnalysis - WARNING - Process timed out after 30 seconds, terminating
+2025-08-05 18:54:36,262 - BatchProcessor - ERROR - Error in dynamic analysis of Hello.exe: can only join an iterable
+2025-08-05 18:54:37,138 - BatchProcessor - INFO - Processing file: node.exe
+2025-08-05 18:54:45,337 - DynamicAnalysis - INFO - Executing file: C:\Users\TIWAR\Desktop\final\Cerberus-ai-cybershield\test_samples\node.exe
+2025-08-05 19:06:15,663 - BatchProcessor - INFO - Loading ML model from: ML_model/malwareclassifier-V2.pkl
+2025-08-05 19:06:18,120 - BatchProcessor - INFO - Loaded ML model analyzer from ML_model/malwareclassifier-V2.pkl
+2025-08-05 19:06:18,162 - BatchProcessor - ERROR - Error setting up document analyzer: failed to find libmagic.  Check your installation
+2025-08-05 19:06:18,197 - BatchProcessor - ERROR - Error setting up malware type detector: failed to find libmagic.  Check your installation
+2025-08-05 19:06:18,202 - DynamicAnalysis - INFO - Created temporary directory: C:\Users\TIWAR\AppData\Local\Temp\dynamic_analysis_36bj9rm2
+2025-08-05 19:06:18,202 - BatchProcessor - INFO - Loaded dynamic analyzer
+2025-08-05 19:06:18,379 - BatchProcessor - WARNING - No VirusTotal API key provided. VirusTotal scanning will be skipped.
+2025-08-05 19:06:18,382 - BatchProcessor - INFO - Processing file: attention.pdf
+2025-08-05 19:10:12,739 - BatchProcessor - INFO - Loading ML model from: ML_model/malwareclassifier-V2.pkl
+2025-08-05 19:10:15,186 - BatchProcessor - INFO - Loaded ML model analyzer from ML_model/malwareclassifier-V2.pkl
+2025-08-05 19:10:15,230 - BatchProcessor - ERROR - Error setting up document analyzer: failed to find libmagic.  Check your installation
+2025-08-05 19:10:15,266 - BatchProcessor - ERROR - Error setting up malware type detector: failed to find libmagic.  Check your installation
+2025-08-05 19:10:15,271 - DynamicAnalysis - INFO - Created temporary directory: C:\Users\TIWAR\AppData\Local\Temp\dynamic_analysis_ctf8np2i
+2025-08-05 19:10:15,272 - BatchProcessor - INFO - Loaded dynamic analyzer
+2025-08-05 19:10:15,456 - BatchProcessor - WARNING - No VirusTotal API key provided. VirusTotal scanning will be skipped.
+2025-08-05 19:10:15,462 - BatchProcessor - INFO - Processing file: attention.pdf
+2025-08-05 19:10:15,498 - BatchProcessor - INFO - Processing file: circularlist.exe
+2025-08-05 19:10:25,035 - DynamicAnalysis - INFO - Executing file: temp_uploads\circularlist.exe
+2025-08-05 19:10:34,562 - BatchProcessor - ERROR - Error in dynamic analysis of circularlist.exe: can only join an iterable
+2025-08-05 19:10:34,570 - BatchProcessor - INFO - Processing file: Hello.exe
+2025-08-05 19:10:42,034 - DynamicAnalysis - INFO - Executing file: temp_uploads\Hello.exe
+2025-08-05 19:11:12,132 - DynamicAnalysis - WARNING - Process timed out after 30 seconds, terminating
+2025-08-05 19:11:21,262 - BatchProcessor - INFO - Processing file: node.exe
+2025-08-05 19:11:28,863 - DynamicAnalysis - INFO - Executing file: temp_uploads\node.exe
+2025-08-05 19:13:33,046 - BatchProcessor - INFO - Loading ML model from: ML_model/malwareclassifier-V2.pkl
+2025-08-05 19:13:33,136 - BatchProcessor - INFO - Loaded ML model analyzer from ML_model/malwareclassifier-V2.pkl
+2025-08-05 19:13:33,189 - BatchProcessor - ERROR - Error setting up document analyzer: failed to find libmagic.  Check your installation
+2025-08-05 19:13:33,236 - BatchProcessor - ERROR - Error setting up malware type detector: failed to find libmagic.  Check your installation
+2025-08-05 19:13:33,237 - DynamicAnalysis - INFO - Created temporary directory: C:\Users\TIWAR\AppData\Local\Temp\dynamic_analysis_e4khqoik
+2025-08-05 19:13:33,237 - BatchProcessor - INFO - Loaded dynamic analyzer
+2025-08-05 19:13:33,237 - BatchProcessor - WARNING - No VirusTotal API key provided. VirusTotal scanning will be skipped.
+2025-08-05 19:13:33,243 - BatchProcessor - INFO - Processing file: attention.pdf
+2025-08-05 19:13:33,271 - BatchProcessor - INFO - Processing file: circularlist.exe
+2025-08-05 19:13:40,816 - DynamicAnalysis - INFO - Executing file: temp_uploads\circularlist.exe
+2025-08-05 19:13:50,202 - BatchProcessor - INFO - Processing file: Hello.exe
+2025-08-05 19:13:57,449 - DynamicAnalysis - INFO - Executing file: temp_uploads\Hello.exe
+2025-08-05 19:14:27,529 - DynamicAnalysis - WARNING - Process timed out after 30 seconds, terminating
+2025-08-05 19:14:36,748 - BatchProcessor - INFO - Processing file: node.exe
+2025-08-05 19:14:44,178 - DynamicAnalysis - INFO - Executing file: temp_uploads\node.exe

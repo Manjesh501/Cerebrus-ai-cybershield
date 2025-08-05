@@ -1,0 +1,5 @@
+File,Is Malware,Malware Type,Analysis Method,Processing Time
+attention.pdf,CLEAN,Unknown,Hybrid,0.03s
+circularlist.exe,CLEAN,Unknown,Hybrid,16.65s
+Hello.exe,CLEAN,Unknown,Hybrid,46.07s
+node.exe,CLEAN,Unknown,Hybrid,15.09s

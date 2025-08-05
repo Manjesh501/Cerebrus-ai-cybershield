@@ -1,0 +1,5 @@
+File,Hash,Is Malware,Confidence,Malware Type,Risk Score,Analysis Method,Processing Time
+attention.pdf,,CLEAN,0.00%,Unknown,0,,0.02s
+circularlist.exe,,CLEAN,0.00%,Unknown,0,"ML,Dynamic",16.92s
+Hello.exe,,CLEAN,0.00%,Unknown,0,"ML,Dynamic",46.54s
+node.exe,,CLEAN,0.00%,Unknown,0,"ML,Dynamic",16.94s
