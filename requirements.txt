@@ -10,7 +10,6 @@ libmagic
 # VirusTotal API integration
 virustotal-api
 vt-py
-python-libmagic
 # Document analysis
 python-magic
 olefile
