@@ -3,6 +3,7 @@ flask
 joblib
 numpy
 pandas
+streamlit
 scikit-learn
 pefile
 requests
