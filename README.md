@@ -1,6 +1,5 @@
 # Cerebrus - AI-Powered Malware Analysis Shield
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **Tagline:** Intelligent Static, Dynamic & Real-time Malware Analysis with Explainability.
 
